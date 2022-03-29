@@ -1,0 +1,13 @@
+C:\Users\onury\source\repos\HomeWork ALU program\HomeWork ALU program\bin\Debug\netcoreapp3.1\HomeWork ALU program.exe
+C:\Users\onury\source\repos\HomeWork ALU program\HomeWork ALU program\bin\Debug\netcoreapp3.1\HomeWork ALU program.deps.json
+C:\Users\onury\source\repos\HomeWork ALU program\HomeWork ALU program\bin\Debug\netcoreapp3.1\HomeWork ALU program.runtimeconfig.json
+C:\Users\onury\source\repos\HomeWork ALU program\HomeWork ALU program\bin\Debug\netcoreapp3.1\HomeWork ALU program.runtimeconfig.dev.json
+C:\Users\onury\source\repos\HomeWork ALU program\HomeWork ALU program\bin\Debug\netcoreapp3.1\HomeWork ALU program.dll
+C:\Users\onury\source\repos\HomeWork ALU program\HomeWork ALU program\bin\Debug\netcoreapp3.1\HomeWork ALU program.pdb
+C:\Users\onury\source\repos\HomeWork ALU program\HomeWork ALU program\obj\Debug\netcoreapp3.1\HomeWork ALU program.csprojAssemblyReference.cache
+C:\Users\onury\source\repos\HomeWork ALU program\HomeWork ALU program\obj\Debug\netcoreapp3.1\HomeWork ALU program.AssemblyInfoInputs.cache
+C:\Users\onury\source\repos\HomeWork ALU program\HomeWork ALU program\obj\Debug\netcoreapp3.1\HomeWork ALU program.AssemblyInfo.cs
+C:\Users\onury\source\repos\HomeWork ALU program\HomeWork ALU program\obj\Debug\netcoreapp3.1\HomeWork ALU program.csproj.CoreCompileInputs.cache
+C:\Users\onury\source\repos\HomeWork ALU program\HomeWork ALU program\obj\Debug\netcoreapp3.1\HomeWork ALU program.dll
+C:\Users\onury\source\repos\HomeWork ALU program\HomeWork ALU program\obj\Debug\netcoreapp3.1\HomeWork ALU program.pdb
+C:\Users\onury\source\repos\HomeWork ALU program\HomeWork ALU program\obj\Debug\netcoreapp3.1\HomeWork ALU program.genruntimeconfig.cache
